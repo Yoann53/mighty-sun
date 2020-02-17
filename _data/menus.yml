@@ -1,1 +1,4 @@
-{}
+main:
+  - identifier: main-menu
+    title: MyFirstMenu
+    url: myMenuPage
